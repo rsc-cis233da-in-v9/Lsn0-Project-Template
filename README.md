@@ -13,9 +13,8 @@ In this project, you will walk through the steps to become familiar with using G
 
 ## Project Directions
 1. Now that you have the repo for this activity, **use GitHub Desktop to clone the repo to your course folder**.
-   > If you need a refresher on how to do this, refer to the [How To: Clone a Repo with GitHub Desktop](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Clone-a-Repo-with-GitHub-Desktop) tutorial in the lesson material.
+   > If you need a refresher on how to do this, refer to the [How To: Clone a Repo with GitHub Desktop](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial in the lesson material.
 2. Once you have cloned the repo, **open the repo within VS Code**.
-   > If you need a refresher on how to do this, refer to the [How To: Open a Repo in VS Code](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Open-a-Repo-in-VS-Code) tutorial in the lesson material.
 3. Open this `Readme.md` file in VS Code by right clicking on the file and selecting the **Open Preview** option.
    1. This will let you view the directions in VS Code instead of within GitHub.
    2. You can do this for all future assignments.
@@ -30,9 +29,8 @@ In this project, you will walk through the steps to become familiar with using G
 5. Save the `index.html` file.
 6. **Apply a commit** for the changes you made to the HTML file.
    1. A good commit message would be: Added my details to the page
-   > If you need a refresher on how to do this, refer to the [How To: Commit Changes in VS Code](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Commit-Changes-in-VS-Code) tutorial in the lesson material.
 7. **Sync your changes** with GitHub.
-   > If you need a refresher on how to do this, refer to the [How To: Sync Files with GitHub](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Sync-Files-with-GitHub) tutorial in the lesson material.
+   > If you need a refresher on how to do this, refer to the [How To: Sync Files with GitHub](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub) tutorial in the lesson material.
 
 <br>
 
