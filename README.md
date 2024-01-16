@@ -13,9 +13,9 @@ In this project, you will walk through the steps to become familiar with using G
 
 ## Project Directions
 1. Now that you have the repo for this activity, **use GitHub Desktop to clone the repo to your course folder**.
-   > If you need a refresher on how to do this, refer to the [How To: Clone a Repo with GitHub Desktop](https://riosalado.coursearc.com/content/cis-public/using-git-and-github/using-git-github-and-vs-code#How-To-Clone-a-Repo-with-GitHub-Desktop) tutorial in the lesson material.
+   > If you need a refresher on how to do this, refer to the [How To: Clone a Repo with GitHub Desktop](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Clone-a-Repo-with-GitHub-Desktop) tutorial in the lesson material.
 2. Once you have cloned the repo, **open the repo within VS Code**.
-   > If you need a refresher on how to do this, refer to the [How To: Open a Repo in VS Code](https://riosalado.coursearc.com/content/cis-public/using-git-and-github/using-git-github-and-vs-code#How-To-Open-a-Repo-in-VS-Code) tutorial in the lesson material.
+   > If you need a refresher on how to do this, refer to the [How To: Open a Repo in VS Code](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Open-a-Repo-in-VS-Code) tutorial in the lesson material.
 3. Open this `Readme.md` file in VS Code by right clicking on the file and selecting the **Open Preview** option.
    1. This will let you view the directions in VS Code instead of within GitHub.
    2. You can do this for all future assignments.
@@ -30,17 +30,20 @@ In this project, you will walk through the steps to become familiar with using G
 5. Save the `index.html` file.
 6. **Apply a commit** for the changes you made to the HTML file.
    1. A good commit message would be: Added my details to the page
-   > If you need a refresher on how to do this, refer to the [How To: Commit Changes in VS Code](https://riosalado.coursearc.com/content/cis-public/using-git-and-github/using-git-github-and-vs-code#How-To-Commit-Changes-in-VS-Code) tutorial in the lesson material.   3. 
+   > If you need a refresher on how to do this, refer to the [How To: Commit Changes in VS Code](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Commit-Changes-in-VS-Code) tutorial in the lesson material.
 7. **Sync your changes** with GitHub.
-   > If you need a refresher on how to do this, refer to the [How To: Sync Files with GitHub](https://riosalado.coursearc.com/content/cis-public/using-git-and-github/using-git-github-and-vs-code#How-To-Sync-Files-with-GitHub) tutorial in the lesson material.
-8. Submit your assignment to your instructor by placing a comment within the pull request and click on the Comment button. *Be sure to include your instructor's username (with an at symbol `@`) to send the notification (e.g., `@username, {Comment goes here}`). Your instructor's username can be found in a course announcement.*
-   > If you need a refresher on how to do this, refer to the [How To: Submit an Assignment](https://riosalado.coursearc.com/content/cis-public/using-git-and-github/submitting-assignments-and-viewing-feedback#How-To-Submit-an-Assignment) tutorial in the lesson material.
-   > TIP: If you are on the [GitHub.com](https://github.com/rsc-cis233da-in-v8) website typing in your comment, when you type in the `@` sybmol, a list of potential users to select from will appear to help you easily find your instructor's username.
+   > If you need a refresher on how to do this, refer to the [How To: Sync Files with GitHub](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/using-git-github-and-vs-code#How-To-Sync-Files-with-GitHub) tutorial in the lesson material.
 
-> **IMPORTANT NOTE** - When you look at the pull request in VS Code or GitHub, you should see the commit you applied in step 6 listed right above the textbox. If you do not see the commit listed there, be sure to go back to step 7 and make sure you sync your files.
+<br>
 
-***
+## Submit the Project
+Once you have completed your project, you need to let your instructor know that it is ready to be graded. This is done by submitting the Repo URL to the assignment in RioLearn.
 
-> To learn more about Git and GitHub, review the [Additional-resources.md](z-Additional-resources.md) file.
+   > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
+1. Review your work and make any necessary updates. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+2. **Sync** the changes and apply a final **Commit** that says: `Completed final review and updates before submission.`
+3. Verify that all files appear on GitHub.
 
-***
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS233DA-IN-V9 Organization](https://github.com/rsc-cis233DA-in-v9). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
+4. Right-click the link to your repository and select **Copy Link Address**.
+5. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box.
